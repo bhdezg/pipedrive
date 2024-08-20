@@ -16,7 +16,7 @@ Save the key file as gs_cred.json.
 Update Script:
 - Replace YOUR_TOKEN with your actual pipedrive API token.
 - Replace YOUR_BOOK with your Google Sheets document ID.
-- Update the gs_cred dictionary with your Google service account credentials.
+- Update the `gs_cred` dictionary with your Google service account credentials.
 - Update the `gs_sheet` variable with the name of the sheet you want to update in your Google Sheets document.
 
 
